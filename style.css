@@ -1,8 +1,6 @@
 body {
-    background-color: brown;
-}
-h1{
-    text-align: center;
+    background-image: url(xmas.png);
+    color: rgb(0, 255, 0); 
 }
 img {
   display: block;
